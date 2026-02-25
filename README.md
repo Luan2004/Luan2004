@@ -6,7 +6,7 @@ My name is Luan. I am a AI engineer. I am interested in the following topics: Co
 
 <a href="https://github.com/Luan2004/chatbot_traffic/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luan2004&repo=chatbot_traffic&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luan2004&repo=chatbot_traffic&theme=radical" />
 </a>    
 <a href="https://github.com/Luan2004/Intrusion-Detection-System/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
