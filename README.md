@@ -12,4 +12,8 @@ My name is Luan. I am a AI engineer. I am interested in the following topics: Co
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luan2004&repo=Intrusion-Detection-System&theme=merko" />
 </a>
+<a href="https://github.com/Luan2004/FireAlert/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luan2004&repo=FireAlert&theme=dracula" />
+</a>
 
